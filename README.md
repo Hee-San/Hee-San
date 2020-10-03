@@ -3,4 +3,5 @@
 
 Students studying compuetr science in Tokyo/Japan,
 
-![Anurag's github stats](https://github-readme-stats-git-master.hee-san.vercel.app/api?username=Hee-San)
+[![Hee-San's github stats](https://github-readme-stats-git-master.hee-san.vercel.app/api?username=Hee-San&count_private=true&include_all_commits&show_icons=true&theme=vue)](https://github.com/Hee-San?tab=repositories)
+
